@@ -31,6 +31,15 @@ main h1{
     text-align: center;
     padding: 0;
 }
+section{
+  padding: 1em;
+}
+.biography section p,
+.biography section ul{
+  list-style-type: none;
+  padding: 0;
+  padding-left: .5em;
+}
 nav {
   margin: 0;
   background-color: white;
