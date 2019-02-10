@@ -175,6 +175,9 @@ footer a:visited{
   ul.nav{
     flex-direction:column;
     align-items: center;
+    box-sizing: border-box;
+
+    /*padding: 0;*/
   }
   ul.nav li.icon{
     display:block;
